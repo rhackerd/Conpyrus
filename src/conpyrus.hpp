@@ -1,6 +1,9 @@
 #ifndef CONPYRUS
 #define CONPYRUS
 
-#include "conpy.h"
+#include "conpy.hpp"
+
+
+
 
 #endif
